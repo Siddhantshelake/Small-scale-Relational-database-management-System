@@ -107,14 +107,14 @@ C++ IDE (C++11 or higher)
 
 
 #### DROP
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/Small-scale-Relational-database-management-System/blob/master/public/drop.PNG)
 
 
 #### INSERT INTO
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/Small-scale-Relational-database-management-System/blob/master/public/insert.PNG)
 
 #### DESCRIBE & HELP
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/Small-scale-Relational-database-management-System/blob/master/public/des%20and%20help.PNG)
 
-#### DROP
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+#### SELECT
+![App Screenshot](https://github.com/Siddhantshelake/Small-scale-Relational-database-management-System/blob/master/public/select.PNG)
