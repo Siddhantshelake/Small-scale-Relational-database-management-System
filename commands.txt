@@ -1,0 +1,31 @@
+create table teacher ( id int , name str , salary float )
+
+insert into teacher values ( 1 , sid , 200000 )
+insert into teacher values ( 2 , zaid , 150000 )
+insert into teacher values ( 3 , gaurav , 140000 )
+insert into teacher values ( 4 , arya , 250000 )
+
+select * from teacher
+select * from teacher where id = 3
+select * from teacher where salary >= 200000
+select id , name from teacher
+select name , salary from teacher where salary <= 200000
+
+update teacher set id = 5 where name = sid
+update teacher set name = zaid
+update teacher set name = gaurav where id = 4
+
+delete from teacher where id = 3
+delete from teacher where name =arya
+delete from teacher
+
+help tables
+
+describe teacher
+
+help create
+help update
+
+drop table teacher
+
+quit
