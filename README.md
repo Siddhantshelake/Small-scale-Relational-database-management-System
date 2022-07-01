@@ -87,7 +87,7 @@ C++ IDE (C++11 or higher)
 #### Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Siddhantshelake/Small-scale-Relational-database-management-System.git
 ```
 
 ```
@@ -103,7 +103,7 @@ C++ IDE (C++11 or higher)
 ## Screenshots
 
 #### CREATE
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/Small-scale-Relational-database-management-System/blob/master/public/create.PNG)
 
 
 #### DROP
